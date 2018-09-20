@@ -1,4 +1,4 @@
-# VBA-Project-Wall-Street-
+# VBA-Project-Wall-Street-Challenge 
 The VBA of Wall Street
 
 ### Background
